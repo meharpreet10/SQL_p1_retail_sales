@@ -205,3 +205,11 @@ GROUP BY shift;
 ## Conclusion
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+## Meharpreet Kaur
+Linkedin profile- www.linkedin.com/in/meharpreet-kaur-59bb75356
+Email- manmeetkaur2614@gmail.com 
+       or
+       meharpreetkaur2614@gmail.com
+
+THANK YOU
